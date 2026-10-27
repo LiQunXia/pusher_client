@@ -1,3 +1,8 @@
+## Unreleased (Apple Silicon simulators)
+
+- Replace deprecated PusherSwiftWithEncryption 8.0.0 with PusherSwift 10.1.10, retaining encrypted channel support without the device-only Sodium binary.
+- Update Swift module imports and require iOS 13+.
+
 ## Unreleased (ComiruAir)
 
 - Migrate Android to AGP 9 built-in Kotlin, retaining the Java/Kotlin 17 target.
