@@ -1,3 +1,8 @@
+## Unreleased (ComiruAir)
+
+- Migrate Android to AGP 9 built-in Kotlin, retaining the Java/Kotlin 17 target.
+- Require Flutter 3.47 or later; use the previous pinned revision for legacy KGP builds.
+
 ## 2.0.0 - August 31, 2021
 
 * Upgraded to null safety [@nizwar](https://github.com/nizwar)
